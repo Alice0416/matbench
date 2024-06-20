@@ -1,0 +1,55 @@
+{
+"author": "Xinping Song"
+"algorithm": "RF-SCM/Magpie v1.0"
+"algorithm_long": 
+"bibtex_refs": ['@article{Dunn2020,\n'
+ '  doi = {10.1038/s41524-020-00406-3},\n'
+ '  url = {https://doi.org/10.1038/s41524-020-00406-3},\n'
+ '  year = {2020},\n'
+ '  month = sep,\n'
+ '  publisher = {Springer Science and Business Media {LLC}},\n'
+ '  volume = {6},\n'
+ '  number = {1},\n'
+ '  author = {Alexander Dunn and Qi Wang and Alex Ganose and Daniel Dopp and '
+ 'Anubhav Jain},\n'
+ '  title = {Benchmarking materials property prediction methods: the Matbench '
+ 'test set and Automatminer reference algorithm},\n'
+ '  journal = {npj Computational Materials}\n'
+ '}',
+ '@article{Breiman2001,\n'
+ '  doi = {10.1023/a:1010933404324},\n'
+ '  url = {https://doi.org/10.1023/a:1010933404324},\n'
+ '  year = {2001},\n'
+ '  publisher = {Springer Science and Business Media {LLC}},\n'
+ '  volume = {45},\n'
+ '  number = {1},\n'
+ '  pages = {5--32},\n'
+ '  author = {Leo Breiman},\n'
+ '  journal = {Machine Learning}\n'
+ '}',
+ '@article{Ward2016,\n'
+ '  doi = {10.1038/npjcompumats.2016.28},\n'
+ '  url = {https://doi.org/10.1038/npjcompumats.2016.28},\n'
+ '  year = {2016},\n'
+ '  month = aug,\n'
+ '  publisher = {Springer Science and Business Media {LLC}},\n'
+ '  volume = {2},\n'
+ '  number = {1},\n'
+ '  author = {Logan Ward and Ankit Agrawal and Alok Choudhary and Christopher '
+ 'Wolverton},\n'
+ '  title = {A general-purpose machine learning framework for predicting '
+ 'properties of inorganic materials},\n'
+ '  journal = {npj Computational Materials}\n'
+ '}',
+ '@article {QUA:QUA24917,author = {Faber, Felix and Lindmaa, Alexander and von '
+ 'Lilienfeld, O. Anatole and Armiento, Rickard},title = {Crystal structure '
+ 'representations for machine learning models of formation energies},journal = '
+ '{International Journal of Quantum Chemistry},volume = {115},number = '
+ '{16},issn = {1097-461X},url = {http://dx.doi.org/10.1002/qua.24917},doi = '
+ '{10.1002/qua.24917},pages = {1094--1101},keywords = {machine learning, '
+ 'formation energies, representations, crystal structure, periodic '
+ 'systems},year = {2015},}']
+"notes":
+"requirements":{"python": ["scikit-learn==0.23.2", "numpy==1.22.4", "matbench==0.6.0"]}
+
+}
